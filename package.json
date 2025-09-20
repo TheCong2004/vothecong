@@ -1,0 +1,19 @@
+{
+  "name": "vothecong",
+  "version": "1.0.0",
+  "description": "node app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "thecong",
+  "license": "ISC",
+  "homepage": "",
+  "keywords": [
+    "Cong2004"
+  ]
+}
